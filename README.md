@@ -4,6 +4,9 @@ WPS ATTACK TOOL - DEDSEC TOOL V1
 
 # DEDSECWIFI has been designed to be a robust and practical attack against Wi-Fi Protected Setup (WPS) registrar PINs in order to recover WPA/WPA2 passphrases. It has been tested against a wide variety of access points and WPS implementations. 
 
+### YOUTUBE VIDEO
+https://youtu.be/idMD4eOUoAQ
+
 ### USAGE
 ```
 sudo python3 dedsec.py
