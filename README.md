@@ -6,7 +6,7 @@ WPS ATTACK TOOL - DEDSEC TOOL V1
 
 ### USAGE
 ```
-sudo python2 dedsec.py
+sudo python3 dedsec.py
 ```
 ### INSTALL
 ```
